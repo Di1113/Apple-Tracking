@@ -1,0 +1,11 @@
+# Compiled source #
+*.csv
+*.sh
+*.yaml
+*.png
+*.mp4
+*.ply
+*.jpeg
+*.pth
+*.jpg
+__pycache__
