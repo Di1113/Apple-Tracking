@@ -67,8 +67,8 @@ class Disparity:
                 # import ipdb;ipdb.set_trace()
                 flow_up=T.Resize((size[1],size[2]))(flow_up)
 
-            if save:
-                cv2.imwrite('85_.png',(flow_up.squeeze().cpu().numpy())*-1)
+            # if save:
+            cv2.imwrite('85_.png',(flow_up.squeeze().cpu().numpy())*-1)
             
             return((flow_up.squeeze().cpu().numpy())*-1)
 

@@ -57,7 +57,7 @@ dependencies:
   - ld_impl_linux-64=2.38=h1181459_1
   - lerc=3.0=h295c915_0
   - libdeflate=1.17=h5eee18b_0
-  - libffi=3.4.2=h6a678d5_6
+  - libffi
   - libgcc-ng=11.2.0=h1234567_1
   - libgfortran-ng=11.2.0=h00389a5_1
   - libgfortran5=11.2.0=h1234567_1
@@ -103,7 +103,7 @@ dependencies:
   - pyjwt=2.4.0=py38h06a4308_0
   - pyopenssl=23.0.0=py38h06a4308_0
   - pysocks=1.7.1=py38h06a4308_0
-  - python=3.8.16=h7a1cb2a_2
+  - python=3.11.5
   - python-flatbuffers=2.0=pyhd3eb1b0_0
   - pytorch-mutex=1.0=cpu
   - re2=2022.04.01=h295c915_0

@@ -10,7 +10,7 @@ import numpy as np
 from tqdm import tqdm
 # import open3d as od
 import csv
-import open3d as o3d
+# import open3d as o3d
 from sklearn.cluster import OPTICS
 from scipy.optimize import least_squares
 
